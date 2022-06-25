@@ -103,7 +103,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :computer: Web
 
-- Aplicação web disponível em: <a href="http://git.vibbra.com.br/brenda-1624633177/todo-list.git">Web</a>
+- Aplicação web disponível em: <a href="https://github.com/brendamatias/todo-list">Web</a>
 
 ---
 
